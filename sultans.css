@@ -1,0 +1,115 @@
+h1{
+text-align: center;
+    font-family:monospace;
+}
+body{
+    background-color: rgba(67, 61, 139, 0);
+
+}
+.text{
+    text-align: center}
+        .list{
+          text-align: center; 
+    }
+.hur{
+    text-align: center;
+    margin-left: 100px;
+}
+.para{
+    width: 70%;
+  margin: 20px auto
+}
+.list{
+    background-color: rgba(255, 238, 39, 0.81)}
+.nurik{
+    text-align: center;
+    font-family: cursive;
+}
+.nur{
+    text-align: center;
+}
+.imgnur{
+    width: 300px;
+}
+.kes{
+    text-align: center
+}
+.imgkes{
+    width: 400px;
+}
+.haseki{
+    width: 18%;
+    display: inline-block
+}
+.haseki img {
+    width: 100%;
+    margin: 0 auto
+    
+}
+.cards{
+    text-align: center;
+   
+}
+.haseki{
+    box-shadow: 2px 2px 5px grey;
+}
+.haseki a{
+    text-decoration: none;
+    color: black;
+}
+.haseki a:hover{
+    color: blueviolet
+}
+.up{
+    display: inline-block;
+    background-color: yellow;
+    padding: 10px;
+    position: fixed
+}
+.jensult {
+    width: 70%;
+    margin: 0 auto
+}
+.size{
+width: 80%;
+    margin: 0 auto
+}
+
+.imgkes{
+       width: 30%;
+    margin: 0 auto
+}
+p{
+    text-align: justify
+}
+.valides{
+    width: 70%;
+    margin: 0 auto
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
